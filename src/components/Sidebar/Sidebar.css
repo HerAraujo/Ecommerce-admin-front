@@ -1,0 +1,8 @@
+#btn-logout {
+  border: #ffeb3b 1px solid;
+  color: white;
+}
+
+#btn-logout:hover {
+  opacity: 0.6;
+}
